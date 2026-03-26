@@ -76,6 +76,13 @@ a:hover {
   padding: 0px 20px;
 }
 
+.img-circle {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
 p {
   margin-bottom: 40px;
 }
